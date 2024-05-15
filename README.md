@@ -3,7 +3,7 @@ This project assignment has been prepared for the 'Kodluyoruz' React course. It 
 
 **Demo:** react-contacts-app-sk.surge.sh
 
-**Demo:** https://gregarious-banoffee-e2cb4e.netlify.app/
+**Demo:** https://sk-react-contacts-app.netlify.app/
 
 ---
 
